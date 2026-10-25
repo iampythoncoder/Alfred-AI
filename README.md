@@ -14,7 +14,7 @@ More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) (general design) · [d
 
 - **Web demo:** coming soon. It will run in your browser on a simulated PC, so there is nothing to install and nothing happens to your computer.
 - **Download for Windows:** <https://github.com/DhruvaValluru/Jarvis-Hacks/releases/latest>. Under **Assets**, get `Alfred-Setup-<version>.exe`. You need 64-bit Windows 11, or Windows 10 version 1809 or later, and an [Anthropic API key](windows-mvp/README.md#getting-your-api-key); an OpenAI key (voice mode) and Telegram are optional. No admin rights needed. The installer isn't code-signed yet, so if Windows says "Windows protected your PC", click **More info**, then **Run anyway**. More in [INSTALL.md](windows-mvp/INSTALL.md).
-- **Run from source:** [windows-mvp/](windows-mvp/README.md). Run `setup.bat`, then `jarvis.bat` (the console), or `.venv\Scripts\python -m jarvis.app` (the app window).
+- **Run from source:** [windows-mvp/](windows-mvp/README.md). Open a terminal in `windows-mvp`, then run `setup.bat`, followed by `jarvis.bat` (the console), or `.venv\Scripts\python -m jarvis.app` (the app window).
 
 ## 1. Goals
 
