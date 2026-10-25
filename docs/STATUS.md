@@ -1,6 +1,6 @@
 # Live task board
 
-_Auto-generated 2026-10-11 12:30 UTC from [TASKS.md](TASKS.md), open PRs and branches. Do not edit; changes are overwritten._
+_Auto-generated 2026-10-25 06:39 UTC from [TASKS.md](TASKS.md), open PRs and branches. Do not edit; changes are overwritten._
 
 **Progress:** 32 of 102 tasks done.
 
@@ -102,4 +102,5 @@ First 3 per area. Take the lowest number in your area.
 
 ## Needs attention
 
+- PR #11 "[K15] docs: clarify source setup working directory" on `docs/K15-source-directory`: add a task ID like `[C6]` to the title
 - branch `gh-pages` (github-actions[bot], no PR, 1 commits, last 2026-10-11): "Web demo built from 034ff631965b5ef9ecf6177f1e065e0681480d55". Open a draft PR with a task ID.
